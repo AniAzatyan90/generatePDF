@@ -6,5 +6,6 @@ export default function HeaderSection({ title, logo }) {
       <img src={logo} alt="Logo" className="h-12" />
       <h1 className="text-xl font-bold text-center flex-1">{title}</h1>
     </div>
+    
   );
 }
