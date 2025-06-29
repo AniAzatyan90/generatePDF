@@ -67,6 +67,7 @@ export const Template1 = ({ users }) => (
 
           <Text style={styles.field}>
             The certificate is issued upon the request of the citizen for submission to relevant authorities.
+            <Text></Text>
           </Text>
         </View>
 
