@@ -9,7 +9,6 @@ import {
   Font,
 } from '@react-pdf/renderer';
 
-// Կառուցիր ոճերը
 const styles = StyleSheet.create({
   page: {
     padding: 30,
